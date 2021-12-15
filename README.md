@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qgarnaldo
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Cloud, IaaS, Containers, Automation, Python, and Deep Learning specifically LSTM 
+- 🌱 I’m currently learning Cloud, IaaS, Containers, Automation, Python, and AI(for my undergraduate thesis)
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me:  You can visit my LinkedIn account https://www.linkedin.com/in/querubinarnaldo
 
